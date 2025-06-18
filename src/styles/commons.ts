@@ -114,27 +114,3 @@ export const TooltipWrapper = styled.div`
     opacity: 1;
   }
 `;
-
-// export const Tooltip = styled.div`
-//   position: absolute;
-//   bottom: -3.5rem;
-//   left: 50%;
-//   transform: translateX(-50%);
-//   margin-bottom: 0.5rem;
-//   padding: 0.5rem 1rem;
-//   background: rgba(0, 0, 0, 0.75);
-//   color: white;
-//   font-size: ${(props) => props.theme.fontSizes.size18};
-//   border-radius: 4px;
-//   white-space: nowrap;
-//   pointer-events: none;
-//   user-select: none;
-//   opacity: 0;
-//   animation: fadeIn 0.2s forwards;
-
-//   @keyframes fadeIn {
-//     to {
-//       opacity: 1;
-//     }
-//   }
-// `;
