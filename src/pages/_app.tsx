@@ -21,12 +21,12 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           property="og:description"
-          content="임리하의 첫 생일파티에 초대드립니다."
+          content="8월 31일 오후 12시 센텀스퀘어 2동 7층 717호 "
         />
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://invitation-lyart-pi.vercel.app/lyha"
+          content="https://invitation-lyart-pi.vercel.app"
         />
         <meta
           property="og:image"

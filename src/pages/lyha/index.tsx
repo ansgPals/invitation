@@ -34,7 +34,7 @@ export default function Lyha() {
         <StyledSection2>
           <div>
             <h2>일정</h2>
-            <p>2025년 8월 31 일 (일요일) 오후 12시</p>
+            <p>2025년 8월 31일 (일요일) 오후 12시</p>
             <CuteCalendar />
           </div>
           <div>
