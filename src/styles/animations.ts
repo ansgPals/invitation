@@ -1,5 +1,15 @@
 import { css, keyframes } from "@emotion/react";
 
+const rotateImage = keyframes`
+100% {
+    	transform: rotate(360deg);
+    }`;
+
+export const rotateAnimation = css`
+  animation: ${rotateImage} 5s linear infinite;
+  transform-origin: 50% 50%;
+`;
+
 const shimmerEffect = keyframes`
   0% {
     background-color: #e0e0e0;

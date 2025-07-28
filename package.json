@@ -13,6 +13,8 @@
     "@emotion/styled": "^11.14.0",
     "@react-three/drei": "^10.3.0",
     "@react-three/fiber": "^9.1.2",
+    "@types/facepaint": "^1.2.5",
+    "facepaint": "^1.2.1",
     "lodash": "^4.17.21",
     "next": "15.3.0",
     "react": "^19.0.0",
