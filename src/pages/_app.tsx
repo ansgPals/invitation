@@ -28,10 +28,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           property="og:url"
           content="https://invitation-lyart-pi.vercel.app"
         />
-        <meta
-          property="og:image"
-          content="https://portfolio-opal-iota-92.vercel.app/1.png"
-        />
+        <meta property="og:image" content="/1.png" />
 
         <link rel="icon" href="/favicon.ico" />
       </Head>
