@@ -30,7 +30,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           property="og:image"
-          content="https://portfolio-opal-iota-92.vercel.app/lyha/1.png"
+          content="https://portfolio-opal-iota-92.vercel.app/1.png"
         />
 
         <link rel="icon" href="/favicon.ico" />
