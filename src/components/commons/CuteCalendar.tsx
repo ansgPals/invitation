@@ -1,10 +1,6 @@
-/** components/CuteCalendar.tsx */
-"use client";
-
 import { css } from "@emotion/react";
 import styled from "@emotion/styled";
 
-const pink = "#f79ead";
 const purple = "#c46d96";
 
 const CalendarWrapper = styled.div`
