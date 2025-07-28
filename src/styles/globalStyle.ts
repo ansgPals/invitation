@@ -15,12 +15,12 @@ export const globalStyle = (theme: CustomThemeType) => css`
 
     &::-webkit-scrollbar-thumb {
       border-radius: 0.4rem;
-      background: ${theme.colors.primary400};
+      background: pink;
     }
 
     &::-webkit-scrollbar-track {
       border-radius: 0.4rem;
-      background: rgba(203, 221, 223, 0.34);
+      background: rgba(223, 203, 223, 0.34);
     }
   }
 
